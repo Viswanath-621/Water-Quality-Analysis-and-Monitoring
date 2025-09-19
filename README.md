@@ -40,4 +40,4 @@ result. The areas that will profit from this project are those that
 are close to water bodies, and those who live there will also be
 made aware of the problem of water contamination.
 
-Keywords: Remote Sensing, Satellite Image Classification
+Keywords: Remote Sensing, Satellite Image Classifications
